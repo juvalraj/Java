@@ -1,4 +1,4 @@
-package s4csb;
+package jr11;
 
 import java.util.Scanner;
 
